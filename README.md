@@ -24,7 +24,7 @@ $ \curl -L https://get.rvm.io | bash -s stable --rails --autolibs=enabled
 
 ```bash
 $ brew install node
-$ node install jasmine-node -g
+$ npm install jasmine-node -g
 ```
 
 Update the `~/.bash_profile` to include NPM binary files on the PATH:
