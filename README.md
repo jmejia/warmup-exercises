@@ -56,5 +56,5 @@ file endings) so the test file named is named differently.
 
 ```bash
 $ cd WARMUP
-$ jasmine-node --coffeee coffee.spec.coffee
+$ jasmine-node --coffee coffee.spec.coffee
 ```
